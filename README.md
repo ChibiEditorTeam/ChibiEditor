@@ -1,3 +1,5 @@
+![image]({https://img.shields.io/badge/Join%20our-Discord-5865F2})
+
 # ChibiEditor
 
 ![ChibiEditorXPbanner](https://chibieditorteam.github.io/ChibiEditor-Web/img/xpBackgroundWS.png)
