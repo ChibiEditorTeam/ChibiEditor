@@ -1,4 +1,5 @@
-![image]({https://img.shields.io/badge/Join%20our-Discord-5865F2})
+![image](https://img.shields.io/badge/Join%20our-Discord-5865F2?style=flat&logo=discord)
+![image](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FChibiEditorTeam%2FChibiEditor%2F)
 
 # ChibiEditor
 
