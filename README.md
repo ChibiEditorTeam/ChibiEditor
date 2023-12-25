@@ -3,7 +3,7 @@
 
 # ChibiEditor
 
-![ChibiEditorXPbanner](https://chibieditorteam.github.io/img/xpBackgroundWS.png)
+![ChibiEditorXPbanner](https://chibieditor.pages.dev/img/xpBackgroundWS.png)
 
 ### ChibiEditor est un logiciel créé par Rémy Trash dont la première version est apparue le 16 septembre 2017. 
 
